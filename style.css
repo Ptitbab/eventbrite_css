@@ -1,0 +1,18 @@
+#liste_carte{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#column{
+    display: flex;
+    flex-direction: column;
+}
+
+.jumbotron{
+    background: url('images/rachel-coyne-U7HLzMO4SIY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
